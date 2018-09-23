@@ -7,3 +7,8 @@ https://cafe.naver.com/minecraftpe/2417200
 https://www.google.co.kr/search?q=svn&oq=svn&aqs=chrome..69i57j0l5.511j0j7&sourceid=chrome&ie=UTF-8
 
 https://www.google.co.kr/search?newwindow=1&ei=LeWmW8XdLouI8wWd5rzACA&q=CVS&oq=CVS&gs_l=psy-ab.3..0i67k1j0j0i67k1j0l6j0i10k1.560410.560410.0.561049.1.1.0.0.0.0.94.94.1.1.0....0...1c.1.64.psy-ab..0.1.93....0.tPlwt_m0gvk
+
+CVS : 동시 버전 관리 시스템(Concurrent Versioning System)
+SYN : 서브버전(Subversion), 자유 소프트웨어 버전 관리 시스템
+Pull Request : 병합요청
+Folk : 기존 프로젝트를 기반으로 새 프로젝트 생성
